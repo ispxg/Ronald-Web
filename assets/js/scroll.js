@@ -1,0 +1,15 @@
+ScrollReveal().reveal('.especialistas');
+ScrollReveal().reveal('.mision', { delay:600 });
+ScrollReveal().reveal('.amplioConocimiento', { delay:600 });
+ScrollReveal().reveal('.trabajosRecientes', { delay:600 });
+ScrollReveal().reveal('.gridTrabajos1', { delay:600 });
+ScrollReveal().reveal('.gridTrabajos2', { delay:600 });
+ScrollReveal().reveal('.gridTrabajos3', { delay:600 });
+ScrollReveal().reveal('.verMasTrabajosButton', { delay:600 });
+ScrollReveal().reveal('.serviciosDestacados', { delay:600 });
+ScrollReveal().reveal('.potencialOnline1', { delay:600 });
+ScrollReveal().reveal('.potencialOnline2', { delay:600 });
+ScrollReveal().reveal('.aniosExperiencia', { delay:600 });
+ScrollReveal().reveal('.caracteristicas', { delay:600 });
+ScrollReveal().reveal('.veinteAnios', { delay:600 });
+ScrollReveal().reveal('.formulario', { delay:600 });
